@@ -14,3 +14,15 @@ This repository contains both the data and code for this paper. This repository 
 
 ## Citing
 
+
+```
+@misc{cegin2024llmsvsestablishedtext,
+      title={LLMs vs Established Text Augmentation Techniques for Classification: When do the Benefits Outweight the Costs?}, 
+      author={Jan Cegin and Jakub Simko and Peter Brusilovsky},
+      year={2024},
+      eprint={2408.16502},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2408.16502}, 
+}
+```
